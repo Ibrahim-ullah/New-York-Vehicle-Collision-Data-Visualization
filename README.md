@@ -14,5 +14,5 @@ In this web app we have tried to visualize, how many people got injured everyday
 
 - First download the dataset
 - Then download the repository
-- Then go to your termina and type ```streamlit python app.py ```
+- Then go to your termina and type ```streamlit run app.py ```
 
